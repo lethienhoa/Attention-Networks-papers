@@ -23,3 +23,7 @@
 | Yang Liu, Mirella Lapata. **Learning Structured Text Representations**. TACL 2017 |
 | Vlad Niculae, Mathieu Blondel. **A Regularized Framework for Sparse and Structured Neural Attention**. NIPS 2017 |
 | Vlad Niculae, André F. T. Martins, Mathieu Blondel, Claire Cardie. **SparseMAP: Differentiable Sparse Structured Inference**. ICML 2018 |
+| `Latent variable on context vector:` |
+| Biao Zhang, Deyi Xiong, Jinsong Su, Hong Duan, Min Zhang. **Variational Neural Machine Translation**. EMNLP 2017 |
+| Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, Pascal Poupart. **Variational Attention for Sequence-to-Sequence Models**. COLING 2018 |
+| Jinsong Su, Shan Wu, Deyi Xiong, Yaojie Lu, Xianpei Han, Biao Zhang. **Variational Recurrent Neural Machine Translation**. AAAI 2018 |
