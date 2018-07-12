@@ -1,5 +1,9 @@
 | Papers |
 |-----------------|
+| `Latent alignment:` |
+| Peter F. Brown , Stephen A. Della Pietra , Vincent J. Della Pietra , Robert. L. Mercer. **The Mathematics of Statistical Machine Translation: Parameter Estimation**. Computational Linguistics 1993 |
+| Stephan Vogel , Hermann Ney , Christoph Tillmann. **Hmm-based word alignment in statistical translation**. COLING 1996 |
+| Chris Dyer , Victor Chahuneau , Noah A. Smith. **A simple, fast, and effective reparameterization of IBM Model 2**. NAACL 2013 |
 | `Soft (deterministic):` |
 | Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. **Neural Machine Translation by Jointly Learning to Align and Translate**. ICLR 2015 |
 | `Hard (latent variable):` |
