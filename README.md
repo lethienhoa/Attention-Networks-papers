@@ -11,8 +11,10 @@
 | Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey. **Learning Wake-Sleep Recurrent Attention Models**. NIPS 2015 |
 | Dieterich Lawson, Chung-Cheng Chiu, George Tucker, Colin Raffel, Kevin Swersky, Navdeep Jaitly. **Learning Hard Alignments with Variational Inference**. ICASSP 2018 |
 | `Combination of soft and hard attention, structure/sparsity:` |
+| Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes. **Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio**. Arxiv 2016 |
 | Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vymolova, Kaisheng Yao, Chris Dyer, Gholamreza Haffari. **Incorporating Structural Alignment Biases into an Attentional Neural Translation Model**. NAACL 2016 |
 | André F. T. Martins, Ramón Fernandez Astudillo. **From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**. ICML 2016 |
+| Yuntian Deng, Anssi Kanervisto, Jeffrey Ling, Alexander M. Rush. **Image-to-Markup Generation with Coarse-to-Fine Attention**. ICML 2017 |
 | Yoon Kim, Carl Denton, Luong Hoang, Alexander M. Rush. **Structured Attention Networks**. ICLR 2017 |
 | Yang Liu, Mirella Lapata. **Learning Structured Text Representations**. TACL 2017 |
 | Vlad Niculae, Mathieu Blondel. **A Regularized Framework for Sparse and Structured Neural Attention**. NIPS 2017 |
