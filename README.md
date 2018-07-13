@@ -6,13 +6,13 @@
 | Chris Dyer , Victor Chahuneau , Noah A. Smith. **A simple, fast, and effective reparameterization of IBM Model 2**. NAACL 2013 |
 | `Soft (deterministic):` |
 | Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio. **Neural Machine Translation by Jointly Learning to Align and Translate**. ICLR 2015 |
-| `Hard (latent variable) - using RL:` |
+| `Hard (stochastic with latent variable) - using RL:` |
 | Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhudinov, Rich Zemel, Yoshua Bengio. **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention**. ICML 2015 |
 | Jimmy Ba, Volodymyr Mnih, Koray Kavukcuoglu. **Multiple Object Recognition with Visual Attention**. ICLR 2015 |
 | Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu. **Recurrent Models of Visual Attention**. NIPS 2015 |
 | Caglar Gulcehre, Sarath Chandar, Kyunghyun Cho, Yoshua Bengio. **Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes**. Arxiv 2016 |
 | Yuntian Deng, Anssi Kanervisto, Jeffrey Ling, Alexander M. Rush. **Image-to-Markup Generation with Coarse-to-Fine Attention**. ICML 2017 |
-| `Hard (latent variable) - using variational inference:` |
+| `Hard (stochastic with latent variable) - using variational inference:` |
 | Yuri Burda, Roger Grosse, Ruslan Salakhutdinov. **Importance Weighted Autoencoders**. ICLR 2015 |
 | Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey. **Learning Wake-Sleep Recurrent Attention Models**. NIPS 2015 |
 | Dieterich Lawson, Chung-Cheng Chiu, George Tucker, Colin Raffel, Kevin Swersky, Navdeep Jaitly. **Learning Hard Alignments with Variational Inference**. ICASSP 2018 |
