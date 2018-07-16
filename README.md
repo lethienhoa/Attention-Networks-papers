@@ -19,6 +19,7 @@
 | `Variational inference:` |
 | Andriy Mnih, Karol Gregor. **Neural Variational Inference and Learning in Belief Networks**. ICML 2014 |
 | Andriy Mnih, Danilo J. Rezende. **Variational inference for Monte Carlo objectives**. ICML 2016 |
+| Volodymyr Kuleshov, Stefano Ermon. **Neural Variational Inference and Learning in Undirected Graphical Models**. NIPS 2017 |
 | `Combination of soft and hard attention, structure/sparsity:` |
 | Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vymolova, Kaisheng Yao, Chris Dyer, Gholamreza Haffari. **Incorporating Structural Alignment Biases into an Attentional Neural Translation Model**. NAACL 2016 |
 | André F. T. Martins, Ramón Fernandez Astudillo. **From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**. ICML 2016 |
