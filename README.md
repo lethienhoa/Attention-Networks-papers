@@ -16,14 +16,6 @@
 | Yuri Burda, Roger Grosse, Ruslan Salakhutdinov. **Importance Weighted Autoencoders**. ICLR 2015 |
 | Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey. **Learning Wake-Sleep Recurrent Attention Models**. NIPS 2015 |
 | Dieterich Lawson, Chung-Cheng Chiu, George Tucker, Colin Raffel, Kevin Swersky, Navdeep Jaitly. **Learning Hard Alignments with Variational Inference**. ICASSP 2018 |
-| `Variational Inference (rewrite ELBO as expectation over joint distribution of observed and latent variable):` |
-| Rajesh Ranganath, Sean Gerrish, David M. Blei. **Black Box Variational Inference**. Artificial Intelligence and Statistics 2014 |
-| `Amortized Variational Inference (use neural networks to estimate inference networks):` |
-| Andriy Mnih, Karol Gregor. **Neural Variational Inference and Learning in Belief Networks**. ICML 2014 |
-| Andriy Mnih, Danilo J. Rezende. **Variational inference for Monte Carlo objectives**. ICML 2016 |
-| Akash Srivastava, Charles Sutton. **Autoencoding Variational Inference For Topic Models**. ICLR 2017 |
-| Volodymyr Kuleshov, Stefano Ermon. **Neural Variational Inference and Learning in Undirected Graphical Models**. NIPS 2017 |
-| Cheng Zhang, Judith Butepage, Hedvig Kjellstrom, Stephan Mandt. **Advances in Variational Inference**. Arxiv 2017 |
 | `Combination of soft and hard attention, structure/sparsity:` |
 | Trevor Cohn, Cong Duy Vu Hoang, Ekaterina Vymolova, Kaisheng Yao, Chris Dyer, Gholamreza Haffari. **Incorporating Structural Alignment Biases into an Attentional Neural Translation Model**. NAACL 2016 |
 | André F. T. Martins, Ramón Fernandez Astudillo. **From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification**. ICML 2016 |
