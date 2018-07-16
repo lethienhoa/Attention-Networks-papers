@@ -17,6 +17,7 @@
 | Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey. **Learning Wake-Sleep Recurrent Attention Models**. NIPS 2015 |
 | Dieterich Lawson, Chung-Cheng Chiu, George Tucker, Colin Raffel, Kevin Swersky, Navdeep Jaitly. **Learning Hard Alignments with Variational Inference**. ICASSP 2018 |
 | `Variational inference:` |
+| Rajesh Ranganath, Sean Gerrish, David M. Blei. **Black Box Variational Inference**. Artificial Intelligence and Statistics 2014 |
 | Andriy Mnih, Karol Gregor. **Neural Variational Inference and Learning in Belief Networks**. ICML 2014 |
 | Andriy Mnih, Danilo J. Rezende. **Variational inference for Monte Carlo objectives**. ICML 2016 |
 | Akash Srivastava, Charles Sutton. **Autoencoding Variational Inference For Topic Models**. ICLR 2017 |
