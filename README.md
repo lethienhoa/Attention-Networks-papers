@@ -18,7 +18,7 @@
 | Dieterich Lawson, Chung-Cheng Chiu, George Tucker, Colin Raffel, Kevin Swersky, Navdeep Jaitly. **Learning Hard Alignments with Variational Inference**. ICASSP 2018 |
 | `Variational Inference (rewrite ELBO as expectation over joint distribution of observed and latent variable):` |
 | Rajesh Ranganath, Sean Gerrish, David M. Blei. **Black Box Variational Inference**. Artificial Intelligence and Statistics 2014 |
-| `Amortized Variational Inference (use neural networks to approximate inference networks):` |
+| `Amortized Variational Inference (use neural networks to estimate inference networks):` |
 | Andriy Mnih, Karol Gregor. **Neural Variational Inference and Learning in Belief Networks**. ICML 2014 |
 | Andriy Mnih, Danilo J. Rezende. **Variational inference for Monte Carlo objectives**. ICML 2016 |
 | Akash Srivastava, Charles Sutton. **Autoencoding Variational Inference For Topic Models**. ICLR 2017 |
